@@ -192,9 +192,9 @@ newsletter:
 # Collections
 # -----------------------------------------------------------------------------
 
-  collections:
-          projects:
-          output: true
+collections:
+  projects:
+     output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
