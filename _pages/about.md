@@ -22,4 +22,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-Hi! I'm Youyang Kim, an incoming Ph.D. student in the <a href='https://www.cs.purdue.edu'>Department of Computer Science</a> at <a href='https://www.purdue.edu'>Purdue University</a>. My research focuses on applying AI to improve system reliability, with the ultimate goal of diagnosing and resolving complex failures in large-scale systems.  
+Hi! I'm Youyang Kim, an incoming Ph.D. student in the <a href='https://www.cs.purdue.edu'>Department of Computer Science</a> at <a href='https://www.purdue.edu'>Purdue University</a>, advised by <a href='https://yonglezh-purdue.github.io'>Prof.Yongle Zhang</a>. My research focuses on applying AI to improve system reliability, with the ultimate goal of diagnosing and resolving complex failures in large-scale systems.  
+
+- **Diagnosing Misconfiguration.** **<a href='https://ieeexplore.ieee.org/abstract/document/11619114?casa_token=C94IwMQxDfAAAAAA:LeqjqfnWYt_Vb-m_1HBM0CiNub4MpGy3ED9-BbrLhalKSaWkz9RIDaCt13HAVD5kR1nhvRlO'>Falconf (ICDCS'26)</a>** diagnoses misconfiguration by analyzing logs using AI. 
+- **Troubleshooting.** **<a href='https://link.springer.com/chapter/10.1007/978-3-032-22774-4_13'>ForumSeeker (FASE'26)</a>** troubleshoots system failures by identifying relevant posts in online forums using multiple AI models. 
