@@ -18,7 +18,7 @@ nav_order: 2
 <!-- 탭 버튼 -->
   <div class="pub-tabs">
     <button class="pub-tab-btn active" data-tab="international">International</button>
-    <button class="pub-tab-btn" data-tab="domestic">Domestic (KCI)</button>
+    <button class="pub-tab-btn" data-tab="regional">Regional (KCI)</button>
     <button class="pub-tab-btn" data-tab="workshop">Workshop/Poster/Demo</button>
   </div>
 
@@ -28,7 +28,7 @@ nav_order: 2
   </div>
 
   <!-- 국내 논문 -->
-  <div class="pub-tab-content" id="domestic" style="display: none;">
+  <div class="pub-tab-content" id="regional" style="display: none;">
     {% bibliography -q @*[keywords=domestic]* %}
   </div>
 
